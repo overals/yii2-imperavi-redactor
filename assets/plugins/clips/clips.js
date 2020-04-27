@@ -10,7 +10,7 @@
 					['Red label', '<span class="label-red">Label</span>'],
 					['Claim Button', '<a class="btn-dc btn-main" href="/claim">Start your claim</a>'],
 					['Claim Widget with money background', '<div class="c-acf__cta"> <div class="c-acf__cta-money"> <span class="c-acf__cta-text">Data breached? You might have a right to compensation - up to $750</span> <a class="c-acf__cta-button btn-dc" href="/claim">Claim NOW</a> </div> </div>'],
-					['Claim Widget with color background', '<div class="c-acf__cta"> <div class="c-acf__cta-background"> <span class="c-acf__cta-text">Data breached? You might have a right to compensation - up to $750</span> <a class="c-acf__cta-button btn-dc" href="/claim">Claim NOW</a> </div> </div>']
+					['Claim Widget with color background', '<span class="c-acf__cta"> <span class="c-acf__cta-background"> <span class="c-acf__cta-text">Data breached? You might have a right to compensation - up to $750</span> <a class="c-acf__cta-button btn-dc" href="/claim">Claim NOW</a> </span> </span>']
 				];
 
 				this.clips.template = $('<ul id="redactor-modal-list">');
