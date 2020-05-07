@@ -9,6 +9,7 @@
 					['Claim Button', '<a class="btn-dc btn-main" href="/claim">Start your claim</a>'],
 					['Claim Widget with money background', '<span style="padding:0;margin-bottom:32px;"><span style="background-image: url(/img/cta-money.svg);background-position: center bottom;background-repeat: no-repeat;background-size: 364px;padding: 32px 16px;background-color: #f3f9ff;border-radius: 6px;display: -webkit-box;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;flex-direction: column;"><span style="font-size: 20px;color: #2d3c4d;margin-bottom: 32px;">Data breached? You might have a right to compensation - up to $750</span><a style="width: 100%;text-align: center;" class="c-acf__cta-button btn-dc" href="/claim">Claim NOW</a></span></span>'],
 					['Claim Widget 2 with color background', '<span style="padding:0;margin-bottom:32px;"><span style="background-size: 364px;padding: 32px 16px;background-color: #f3f9ff;border-radius: 6px;display: -webkit-box;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;flex-direction: column;"><span style="font-size: 20px;color: #2d3c4d;margin-bottom: 32px;">Data breached? You might have a right to compensation - up to $750</span><a style="width: 100%;text-align: center;" class="c-acf__cta-button btn-dc" href="/claim">Claim NOW</a></span></span>'],
+					['Star Badge', '<span class="badge" style="background-color: #3bbfa5;"><i class="fa fa-star"></i></span>'],
 					['Red label', '<span class="label-red">Label</span>']
 				];
 
